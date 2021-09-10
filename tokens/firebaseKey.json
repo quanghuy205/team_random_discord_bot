@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "beaming-sunset-325602",
+  "private_key_id": "bc0f90c4d9aa2582028bdf00fa4b966abd7ade03",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqmAiR0k4r8V0N\nZSmo6pdR8xR085BcdRVAs3EqKwF356cYEOAD3+pzv4gy2sA//bcwnuTFSjQJNmek\n496IvEgkLOXb3Zd8P3iTF2q6HA1puflXip85MQ2U3nwHdE3hfVUQKwGI2P+1+4Yr\n86LePdCyFj7rEGojAygGf1p8ohLQOQ159M4+CUxuepXo/+u+EuH/QFxzTQvvEZkM\n4eyen3Z0p2FGCpkXQsvQf3o44JlJuyWsxWDP+yC89UYskSd4fYc+zKH1/ZDl9ip4\nldPWJ39fHm9wAzF1USAl/7f0YiwpsgHUjCejkYyEdLPmTGyKQjwI/Xggb474Erxa\nap3apg6/AgMBAAECggEAEzt9p9byWjDlYTe4+SKteZ8yfLbi3RGUGk3AodTkXvy+\nUU/BuZ4aY/9BXx5bUzuK1g/r0bQ6Zpl8GNJZyceUSIPJTD7Qr8DGGqsmrKGx/2vo\niO6HYd6+XbyxdfOuPhAvsVlv3Fo+hek76KOYhn6okxM/96dLl/PopMbh0DBDd7bv\nkJG4hf7jl6aWe4RPpS/imnFaZFe/WtWgNCB3yLmZCnqGsJ7/vuh45NMJ9hakf1Od\njVxwKVGlB9jgsVWdC6ue4NzamQRw1QOts6jOweLZJt5GqBv30nTyY13IrsxvWNaP\nufPW62B16gTtaZdUt+1dfP0bHRbmUU/uIGjQPGOYNQKBgQDl8F/JCTT4oPnmgRy9\nLtPsGg2V1cHuotw9kjYXcV0agTDko7f49/E9f8M2rXALaW3IPpispJolCfaKsKDp\npYFlbM7PNwMmsn8nXOQhPZbhtKVErx7bvPG8CxfBqpPLqMtNYVFVsw/SNnm0pAu2\neNB4gTTCDkZ7gGOlSs+7BeCOwwKBgQC97caHnZeNCmQc6JihULRW4ds1J4sXHC+1\nVMb3LXQxFpgSmtCYMOmVMzwOAiiwu8vRkqAHxGkPvlznysmltSoFtCJB5xUZb+Qy\n/3j/k/zWxr+6SeM2Ddu7ekUc2WKdgozXh/tdq0z3JeFgf77NsH7Ch9mduUCJSD3c\ncPyOEvQ4VQKBgQCSxq+9+lyP4OHkW8JmmL+6VJ8baAmVNOx1eSGCMWEHDDSTnlZP\nXKXnZejMvEVrY28qhZqbia7DuepgeYMd4gIJJj2VVD50szgrfkY5WcE4bkGY6FhA\nWAnOyR3vB920ARlVWau7ksOkohVqU9UOM2yPn5p3zPj82OXCm1Cix4uiVQKBgFJz\nADYrIXkmw6MRDgEpacA1t9VxXx4fLE7JiL4Qy1nr9wRMlLUctqoAXdeu9D8UpzxJ\nLJNynjEpcGdnTvZSmPV051I4oJ40Rpok8T/x3FbYXK7gGHSEu5i9UXden0LFQ6Lk\n8ygMjxLTLO2ZRxk/vydvlfa0TuHJrKEfo2OBsucpAoGBAKxtyuStsHTwqmR5POnt\nOtnMP1PTVsq1wkHqapOdWtXaCW9+JL7T0wOJLtO9VkEljjPx59m/nf3fMasDyf9Z\nPC4mkqcof13CFVHt4bqs2iijYNG9kZAQzftfarl4EIA9kjEBcrzmPsLEazznY04u\nMenmsu/y8krG0hLkT9rwdjxn\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-a4ioi@beaming-sunset-325602.iam.gserviceaccount.com",
+  "client_id": "112072660048071781344",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-a4ioi%40beaming-sunset-325602.iam.gserviceaccount.com"
+}
