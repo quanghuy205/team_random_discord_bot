@@ -27,7 +27,7 @@ def getClient():
     '''
     intents = discord.Intents().default()
     intents.members = True
-    botInfo = discord.Activity(type=discord.ActivityType.watching, name = "for !inhousehelp command")
+    botInfo = discord.Activity(type=discord.ActivityType.watching, name = "for sự thay đổi của Fong một cách bớt đần độn!")
     client = commands.Bot(command_prefix = "!", activity = botInfo, help_command = None, intents = intents, reconnect = True)
     return client
 
