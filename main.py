@@ -140,6 +140,9 @@ def main():
         if str(message.content).lower() == '!who bình':
             await message.channel.send((f'Thằng mập địt đéo biết sấy!'))
 
+        if str(message.content).lower() == '!who hưng':
+            await message.channel.send((f'Cậu của cháu Fong!'))
+
     client.run(config.botToken)
 
 
