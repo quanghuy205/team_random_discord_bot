@@ -1,8 +1,3 @@
-'''
-Code written by Ryan Helgoth, references I used have been cited in the comments.
-
-This is file contains helper functions used by commands.py.
-'''
 
 import discord
 

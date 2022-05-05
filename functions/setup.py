@@ -1,8 +1,3 @@
-'''
-Code written by Ryan Helgoth, references I used have been cited in the comments.
-
-This is file contains functions used for setup of the bot and the database.
-'''
 
 import discord
 from discord.ext import commands

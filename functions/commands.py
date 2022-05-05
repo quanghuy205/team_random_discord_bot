@@ -1,18 +1,4 @@
-'''
-Code written by Ryan Helgoth, references I used have been cited in the comments.
 
-This is file contains code for commands used by the bot.
-'''
-
-''' 
-Link: https://stackoverflow.com/a/27365730
-Author: Kevin
-Date: Dec 8 '14 at 19:50
-License: SA 3.0
-
-I used this post to help fix an issue 
-I had with importing "commandHelpers".
-'''
 from . import commandHelpers as ch
 import discord 
 import random
