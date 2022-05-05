@@ -1,1 +1,1 @@
-botToken = 'ODg1NTcxOTU0NjI1NjM4NDAw.YTo_Jw.SzckRfSd_HpidlLAbeyPw30-2Ws'
+botToken = ''
