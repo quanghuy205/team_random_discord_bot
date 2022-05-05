@@ -1,6 +1,4 @@
 '''
-Code written by Ryan Helgoth, references I used have been cited in the comments.
-
 This is file contains the code that runs the bot.
 '''
 import discord
@@ -27,15 +25,7 @@ def main():
         print("Mất mẹ kết nối rồi!!!")
 
     ''' 
-    Link: https://stackoverflow.com/a/52900437
-    Author: Patrick Haugh
-    Date: Oct 19 '18 at 22:04
-    License: SA 4.0
-
-    I used this post to learn how to 
-    prevent CommandNotFound errors 
-    from cluttering the terminal.
-    '''
+  
     @client.event 
     async def on_command_error(ctx, error): 
         '''
@@ -122,27 +112,7 @@ def main():
     async def maketeam2(ctx, *args):
         await cmd.makeTeam(ctx, db, args, "Team 2")
 
-    # @client.event
-    # async def on_message(message):
-    #
-    #     if message.author == client.user:
-    #         return
-    #
-    #     if str(message.content).lower() == 'bot ngu':
-    #         await message.channel.send((f'Địt mẹ mày {message.author.mention}, tao không phải Fong!'))
-    #
-    #     if str(message.content).lower() == '!who ngu':
-    #         await message.channel.send((f'Fong đần là thằng ngu nhất!'))
-    #
-    #     if str(message.content).lower() == '!who fong':
-    #         await message.channel.send((f'Một con người có ý chí lớn đang cố gắng hòa nhập với cộng đồng!'))
-    #
-    #     if str(message.content).lower() == '!who bình':
-    #         await message.channel.send((f'Thằng mập địt đéo biết sấy!'))
-    #
-    #     if str(message.content).lower() == '!who hưng':
-    #         await message.channel.send((f'Cậu của cháu Fong!'))
-
+   
     client.run(config.botToken)
 
 
